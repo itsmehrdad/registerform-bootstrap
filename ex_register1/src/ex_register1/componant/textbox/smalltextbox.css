@@ -1,0 +1,20 @@
+.area-small{
+      width: 8rem ;
+      border: 0;
+      border-bottom: 2px solid ;
+      outline: 0;
+      color: #3A3A3A;
+      display: flex;
+      justify-content: left;
+
+        
+}
+.lable{
+      color: #A4A4A4;
+
+}
+.full-componant{
+      margin-top: 1rem;
+     
+      
+}
